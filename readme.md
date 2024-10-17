@@ -93,6 +93,25 @@ The Problem Set 3 registration form with MySql database imported the following l
 <br>
 
 ------------------------------------------
+### PS4
+
+* PS4 is the updated version of PS3. In this version, the application will first direct to the `/` route which renders the `log-sign-dash.html` where there's a two button `sign in` and `sign up`. By signing in, the user will be redirected to the `/signIn` route which is the `sign-in.html` where the user can input their email and password. If email or password is wrong, returns a message with error. If the user successfully logged in. the user will be redirected to the `/dashboard` route which is the `dashboard.html` where the user can see his/her information. By signing up, the user will be redirected to the `/signUp` route which is the `sign-up.html` where the user can input his/her information. If the email is already taken, the application will redirect back to the `/signUp` with a message "Email is already taken. Use other email instead.". For the security of the database and password of the user. The password is converted in `SHA256` hash before storing it in the database.
+------------------------------------------
+
+### PS4 Demo
+
+* `sign in`
+* `sign up`
+* `dashboard`
+* `logout`
+
+<p align="center">
+ <img height=400px src="./PS4.gif" alt="outputPS1">
+</p>
+
+<br>
+
+------------------------------------------
 
 ### Implementation Details
 
