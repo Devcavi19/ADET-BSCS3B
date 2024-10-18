@@ -115,7 +115,7 @@ The Problem Set 3 registration form with MySql database imported the following l
 
 ### Implementation Details
 
-This repository as of now contains the implementation of flask applications for PS1, PS2, and PS3. In the latest discussion of our Instructor, we are introduced to the implementation of MySQL database in our flask applications. In the latest Problem Set 3, we are tasked to create a registration form that stores the user's information in a MySQL database.
+This repository contains the implementation of flask applications for PS1, PS2, PS3, and PS4. During midterm, our instructor discussed the following topics that are used in the implementation of the flask applications:
 
 1. `Flask` - Flask is mostly known as a web "micro-framework" developed in python. This is small enough to be easy to learn and create applications out of it. What I find out in Flask is that it's a very beginner-friendly framework that is easy to understand and use. - [Educative-Intro-to-Flask](https://www.educative.io/courses/flask-develop-web-applications-in-python/what-is-flask) , [Flask-Web-Dev](https://coddyschool.com/upload/Flask_Web_Development_Developing.pdf)
 
