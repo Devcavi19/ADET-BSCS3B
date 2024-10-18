@@ -49,7 +49,7 @@
 * `Enter address`
 
 <p align="center">
- <img height=400px src="./PS2.gif" alt="outputPS1">
+ <img height=400px src="./PS2.gif" alt="outputPS2">
 </p>
 
 <br> 
@@ -87,7 +87,7 @@ The Problem Set 3 registration form with MySql database imported the following l
 * Since the email has a `UNIQUE` constraint in the database, the application will not allow the user to input the same email twice. Therefore, the application will redirect back to the form with a message "Email is already taken. Use other email instead."
 
 <p align="center">
- <img height=400px src="./PS3.gif" alt="outputPS1">
+ <img height=400px src="./PS3.gif" alt="outputPS3">
 </p>
 
 <br>
@@ -106,7 +106,7 @@ The Problem Set 3 registration form with MySql database imported the following l
 * `logout`
 
 <p align="center">
- <img height=400px src="./PS4.gif" alt="outputPS1">
+ <img height=400px src="./PS4.gif" alt="outputPS4">
 </p>
 
 <br>
